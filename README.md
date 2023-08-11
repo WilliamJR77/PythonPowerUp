@@ -1,2 +1,2 @@
-# PythonPowerUp
- Projeto Python de bot que replica ações humanas. Usando pyautogui, navega em interfaces, clica, preenche formulários e rola páginas. Simplifica tarefas, poupa tempo e é personalizável. Otimiza processos do dia a dia.
+# Projeto: Bot de Automação Humana em Python
+Desenvolvemos um projeto Python para criar um bot de automação que replica tarefas executadas por humanos. Utilizando bibliotecas como pyautogui e selenium, o bot é capaz de navegar em interfaces gráficas e sites, clicar em botões, preencher formulários e rolar páginas. Com uma configuração simples, o bot agiliza tarefas repetitivas, poupando tempo e esforço. Personalizável para várias necessidades, esse bot de automação eficiente otimiza processos cotidianos.
